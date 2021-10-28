@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pinjaman CesLab</string>
+    <string name="jumlah_utang">Jumlah Pinjaman</string>
+    <string name="jumlah_hari_utang">Estimasi</string>
+    <string name="estimasi_hutang">Periode Pinjaman</string>
+    <string name="harian_service">Harian</string>
+    <string name="bulanan_service">Bulanan</string>
+    <string name="ajukan_calculate">PINJAM SEKARANG</string>
+    <string name="title">Peminjaman SUCCESS !!!</string>
+    <string name="jumlah_hutang">Total Pencairan : %s</string>
+    <string name="jumlah_hari">Periode Pinjaman: %s %s</string>
+    <string name="jumlah_bunga">Bunga : %s</string>
+    <string name="jumlah_pembayaran">Total Pembayaran : %s</string>
+    <string name="jatuh_tempo">Jatuh Tempo : %s %s</string>
+    <string name="textview">TextView</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Seacrh</string>
+    <string name="more">More</string>
+
+</resources>
+
